@@ -3,9 +3,12 @@
 - 我本人僅翻譯但並不擁有此模組包的版權，更多資訊請前往[官方下載頁面](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)。  
  I do not own the copyrights to this modpack, I just translate it to Chinese Traditional(TW).  
 for further information you can checkout the [official download site](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky).
-  
+
 - 本人的英文不是很好，因此該翻譯還有待大家校正。  
  Please forgive me if I make any errors. My English is pretty basic.
+
+- 修正翻譯可以利用　Issue 或　Pull requests　功能。  
+ To correct translate you can use Issue or Pull request function from GitHub.
 
 &emsp;
 # 進度 / Progress
