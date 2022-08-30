@@ -9,7 +9,7 @@
 - 提示與小技巧 / Tips & Tricks -  ![Progress](https://progress-bar.dev/100)
 - 懸賞列表 / Bounty Board - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
-- 主線任務 / Main Questline - ![Progress](https://progress-bar.dev/0)
+- 主線任務 / Main Questline - ![Progress](https://progress-bar.dev/50)
 - + 入門 / Getting Started - ![Progress](https://progress-bar.dev/100)
 - + 入門 第二部分 / Getting Started: Part 2 - ![Progress](https://progress-bar.dev/0)
 --------------------------------------------------
