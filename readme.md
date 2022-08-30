@@ -31,11 +31,11 @@
 
 &emsp;
 # 安裝 / Installation
-1. 下載成壓縮檔 / Download ZIP.
+1. 下載成壓縮檔。 / Download ZIP.
 2. 點進 All-The-Mods-7---To-the-Sky---zh_TW-main 資料夾。   
    Enter All-The-Mods-7---To-the-Sky---zh_TW-main foler.
-3. 將minecraft資料夾內的檔案覆蓋至模組包主目錄 / Copy minecraft folder to modpack main dir.
-4. 取代目的地中的檔案 / Replace the files in the destination.
+3. 將minecraft資料夾內的檔案覆蓋至模組包主目錄。 / Copy minecraft folder to modpack main dir.
+4. 取代目的地中的檔案。 / Replace the files in the destination.
 
 &emsp;
 # 免責聲明 / Disclaimer
