@@ -742,6 +742,7 @@
 			]
 		}
 		{
+      title: "{chapter.3.quest.17.title}"
 			x: 4.0d
 			y: -0.5d
 			shape: "pentagon"
@@ -760,6 +761,7 @@
 			}]
 		}
 		{
+      title: "{chapter.3.quest.18.title}"
 			x: -4.0d
 			y: -0.5d
 			shape: "pentagon"
