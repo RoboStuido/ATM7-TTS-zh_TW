@@ -1,15 +1,6 @@
 # All The Mods 7 - To the Sky - zh_TW
 # ATM7-空島-繁體中文化
-- 我本人僅翻譯但並不擁有此模組包的版權，更多資訊請前往[官方下載頁面](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)。  
- I do not own the copyrights to this modpack, I just translate it to Chinese Traditional(TW).  
-for further information you can checkout the [official download site](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky).
-
-- 本人的英文不是很好，因此該翻譯還有待大家校正。  
- Please forgive me if I make any errors. My English is pretty basic.
-
-- 修正翻譯可以利用 Issue 或 Pull requests 功能。  
- To correct translate you can use Issue or Pull request function from GitHub.
-
+- 適用版本: 1.0.4
 &emsp;
 # 進度 / Progress
 - ATM金屬 / Allthemodium - ![Progress](https://progress-bar.dev/100)
@@ -40,7 +31,19 @@ for further information you can checkout the [official download site](https://ww
 
 &emsp;
 # 安裝 / Installation
-1. 下載該專案 / Download the repositorie.
-2. 將minecraft資料夾內的檔案覆蓋至模組包主目錄 / Copy minecraft folder to modpack main dir.
-3. 取代目的地中的檔案 / Replace the files in the destination.
+1. 下載成壓縮檔 / Download ZIP.
+2. 點進 All-The-Mods-7---To-the-Sky---zh_TW-main 資料夾 / Enter All-The-Mods-7---To-the-Sky---zh_TW-main foler
+3. 將minecraft資料夾內的檔案覆蓋至模組包主目錄 / Copy minecraft folder to modpack main dir.
+4. 取代目的地中的檔案 / Replace the files in the destination.
 
+&emsp;
+# 免責聲明 / Disclaimer
+- 我本人僅翻譯但並不擁有此模組包的版權，更多資訊請前往[官方下載頁面](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)。  
+ I do not own the copyrights to this modpack, I just translate it to Chinese Traditional(TW).  
+for further information you can checkout the [official download site](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky).
+
+- 本人的英文不是很好，因此該翻譯還有待大家校正。  
+ Please forgive me if I make any errors. My English is pretty basic.
+
+- 修正翻譯可以利用 Issue 或 Pull requests 功能。  
+ To correct translate you can use Issue or Pull request function from GitHub.
