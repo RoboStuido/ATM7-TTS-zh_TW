@@ -3,9 +3,11 @@
 - 適用版本: 1.0.4
 &emsp;
 # 進度 / Progress
+- 歡迎 / Welcome - ![Progress](https://progress-bar.dev/100)
 - ATM金屬 / Allthemodium - ![Progress](https://progress-bar.dev/100)
 - 創造 / Creative - ![Progress](https://progress-bar.dev/0)
 - 提示與小技巧 / Tips & Tricks -  ![Progress](https://progress-bar.dev/100)
+- 懸賞列表 / Bounty Board - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
 - 主線任務 / Main Questline - ![Progress](https://progress-bar.dev/0)
 - + 入門 / Getting Started - ![Progress](https://progress-bar.dev/0)
