@@ -48,5 +48,7 @@ for further information you can checkout the [official download site](https://ww
 - 本人的英文不是很好，因此該翻譯還有待大家校正。  
  Please forgive me if I make any errors. My English is pretty basic.
 
+&emsp;
+# 額外資訊 / Additional Information
 - 修正翻譯可以利用 Issue 或 Pull requests 功能。  
  To correct translate you can use Issue or Pull request function from GitHub.
