@@ -13,8 +13,8 @@
 - + 入門 / Getting Started - ![Progress](https://progress-bar.dev/100)
 - + 入門: 第二部分 / Getting Started: Part 2 - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
-- 儲存 / Storage - ![Progress](https://progress-bar.dev/50)
-- + 基礎儲存 / Basic Storage - ![Progress](https://progress-bar.dev/0)
+- 儲存 / Storage - ![Progress](https://progress-bar.dev/100)
+- + 基礎儲存 / Basic Storage - ![Progress](https://progress-bar.dev/100)
 - + 應用能源2 / Applied Energistics 2 - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
 - 資源 / Resources - ![Progress](https://progress-bar.dev/50)
