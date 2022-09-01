@@ -2,7 +2,7 @@
 # ATM7-空島-繁體中文化
 - 適用版本: 1.0.4
 &emsp;
-# 進度 / Progress - ![Progress](https://progress-bar.dev/59)
+# 進度 / Progress - ![Progress](https://progress-bar.dev/65)
 - 歡迎 / Welcome - ![Progress](https://progress-bar.dev/100)
 - ATM金屬 / Allthemodium - ![Progress](https://progress-bar.dev/100)
 - 創造 / Creative - ![Progress](https://progress-bar.dev/100)
@@ -17,9 +17,9 @@
 - + 基礎儲存 / Basic Storage - ![Progress](https://progress-bar.dev/100)
 - + 應用能源2 / Applied Energistics 2 - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
-- 資源 / Resources - ![Progress](https://progress-bar.dev/50)
+- 資源 / Resources - ![Progress](https://progress-bar.dev/100)
 - + 食物與農耕 / Food and Farming - ![Progress](https://progress-bar.dev/100)
-- + 神秘農業 / Mystical Agriculture - ![Progress](https://progress-bar.dev/0)
+- + 神秘農業 / Mystical Agriculture - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
 - 科技 / Technology - ![Progress](https://progress-bar.dev/0)
 - + 所有電力 / AllThePower - ![Progress](https://progress-bar.dev/0)
