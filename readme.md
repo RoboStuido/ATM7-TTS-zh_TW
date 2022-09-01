@@ -3,7 +3,7 @@
 - 適用版本: 1.0.4
 &emsp;
 # 進度 / Progress
-- 總進度 / Total Progress - ![Progress](https://progress-bar.dev/58.8)
+- 總進度 / Total Progress - ![Progress](https://progress-bar.dev/59)
 --------------------------------------------------
 - 歡迎 / Welcome - ![Progress](https://progress-bar.dev/100)
 - ATM金屬 / Allthemodium - ![Progress](https://progress-bar.dev/100)
