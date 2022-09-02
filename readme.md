@@ -1,6 +1,8 @@
 # All The Mods 7 - To the Sky - zh_TW
 # ATM7-空島-繁體中文化
-- 適用版本: 1.0.4
+- 適用版本 / Supported Version: 1.0.4
+- 最後一次更新時間 / Last update time: 09/02/2022
+
 &emsp;
 # 進度 / Progress - ![Progress](https://progress-bar.dev/65)
 - 歡迎 / Welcome - ![Progress](https://progress-bar.dev/100)
@@ -21,8 +23,8 @@
 - + 食物與農耕 / Food and Farming - ![Progress](https://progress-bar.dev/100)
 - + 神秘農業 / Mystical Agriculture - ![Progress](https://progress-bar.dev/100)
 --------------------------------------------------
-- 科技 / Technology - ![Progress](https://progress-bar.dev/0)
-- + 所有電力 / AllThePower - ![Progress](https://progress-bar.dev/0)
+- 科技 / Technology - ![Progress](https://progress-bar.dev/20)
+- + 所有電力 / AllThePower - ![Progress](https://progress-bar.dev/100)
 - + 機械動力 / Create - ![Progress](https://progress-bar.dev/0)
 - + 工業先鋒 / Industrial Foregoing - ![Progress](https://progress-bar.dev/0)
 - + 通用機械 / Mekanism - ![Progress](https://progress-bar.dev/0)
