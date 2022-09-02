@@ -4,7 +4,7 @@
 - 最後一次更新時間 / Last update time: 09/02/2022
 
 &emsp;
-# 進度 / Progress - ![Progress](https://progress-bar.dev/65)
+# 進度 / Progress - ![Progress](https://progress-bar.dev/71)
 - 歡迎 / Welcome - ![Progress](https://progress-bar.dev/100)
 - ATM金屬 / Allthemodium - ![Progress](https://progress-bar.dev/100)
 - 創造 / Creative - ![Progress](https://progress-bar.dev/100)
